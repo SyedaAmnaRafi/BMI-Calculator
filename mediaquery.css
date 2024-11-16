@@ -1,0 +1,10 @@
+@media screen and (max-width:470px) {
+
+    .container{
+        padding-inline: 20px;
+    }
+    #result{
+        width: 80%;
+    }
+}
+
